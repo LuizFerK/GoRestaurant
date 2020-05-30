@@ -59,7 +59,6 @@ const Dashboard: React.FC = () => {
       ...food,
       available: editingFood.available,
     });
-    console.log(editingFood.available);
 
     const updatedFoods = foods.map(foodPlate => {
       if (foodPlate.id === editingFood.id) {
@@ -91,6 +90,8 @@ const Dashboard: React.FC = () => {
   function handleEditFood(food: IFoodPlate): void {
     setEditingFood(food);
     setEditModalOpen(!editModalOpen);
+
+    // MODIFICAR FUNCIONAMENTO PARA ALTERAÇÃO DE DISPONIBILIDADE
   }
 
   return (
