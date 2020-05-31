@@ -5,7 +5,7 @@
   <img alt="Add" src="./src/assets/gorestaurantgit2.png" />
   <img alt="Edit" src="./src/assets/gorestaurantgit3.png" />
   <hr />
-	<img alt="Logo" src="./frontend/src/assets/logo.svg" />
+	<img alt="Logo" src="./src/assets/logo.svg" />
 </h1>
 <p align="center">
 	A simple CRUD site made with Typescript and ReactJS to show an modify a restaurant menu.
