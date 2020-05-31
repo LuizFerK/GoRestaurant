@@ -28,9 +28,17 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "name": "Moda Italiana",
       "price": "19.90",
-      "description": "Muito Bom.",
+      "description": "Muito bom.",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Apimentado",
+      "price": "23.50",
+      "description": "Muito apimentado.",
+      "available": false,
+      "id": 5
     }
   ]
 }
