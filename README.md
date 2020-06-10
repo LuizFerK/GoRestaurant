@@ -1,7 +1,7 @@
 <h1 align="center">
   GoRestaurant
   <hr />
-  <img alt="Dashbord" src="./.github/page1.png" />
+  <img alt="Dashboard" src="./.github/page.png" />
   <img alt="Add" src="./.github/add.png" />
   <img alt="Edit" src="./.github/edit.png" />
   <hr />
