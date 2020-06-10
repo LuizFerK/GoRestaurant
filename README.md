@@ -1,11 +1,11 @@
 <h1 align="center">
   GoRestaurant
   <hr />
-  <img alt="Dashbord" src="./src/assets/gorestaurantgit1.png" />
-  <img alt="Add" src="./src/assets/gorestaurantgit2.png" />
-  <img alt="Edit" src="./src/assets/gorestaurantgit3.png" />
+  <img alt="Dashbord" src="./.github/page1.png" />
+  <img alt="Add" src="./.github/add.png" />
+  <img alt="Edit" src="./.github/edit.png" />
   <hr />
-	<img alt="Logo" src="./src/assets/logo.svg" />
+	<img alt="Logo" src="./.github/logo.svg" />
 </h1>
 <p align="center">
 	A simple CRUD site made with Typescript and ReactJS to show an modify a restaurant menu.
