@@ -5,7 +5,7 @@
   <img alt="Add" src="./.github/add.png" />
   <img alt="Edit" src="./.github/edit.png" />
   <hr />
-	<img alt="Logo" src="./.github/logo.svg" />
+	<img alt="Logo" src="./.github/logo.png" />
 </h1>
 <p align="center">
 	A simple CRUD site made with Typescript and ReactJS to show an modify a restaurant menu.
