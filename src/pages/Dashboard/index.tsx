@@ -90,8 +90,6 @@ const Dashboard: React.FC = () => {
   function handleEditFood(food: IFoodPlate): void {
     setEditingFood(food);
     setEditModalOpen(!editModalOpen);
-
-    // MODIFICAR FUNCIONAMENTO PARA ALTERAÇÃO DE DISPONIBILIDADE
   }
 
   return (
