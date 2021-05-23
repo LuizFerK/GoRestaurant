@@ -8,19 +8,19 @@
 
 <p align="center">
 	<a href="https://github.com/LuizFerK">
-		<img alt="Author" src="https://img.shields.io/badge/author-Luiz%20Fernando-8E54E9?style=flat" />
+		<img alt="Author" src="https://img.shields.io/badge/author-Luiz%20Fernando-FFB84C?style=flat" />
 	</a>
 	<a href="#">
-		<img alt="Languages" src="https://img.shields.io/github/languages/count/LuizFerK/GoRestaurant?color=8E54E9&style=flat" />
+		<img alt="Languages" src="https://img.shields.io/github/languages/count/LuizFerK/GoRestaurant?color=FFB84C&style=flat" />
 	</a>
 	<a href="hhttps://github.com/LuizFerK/GoRestaurant/stargazers">
-		<img alt="Stars" src="https://img.shields.io/github/stars/LuizFerK/GoRestaurant?color=8E54E9&style=flat" />
+		<img alt="Stars" src="https://img.shields.io/github/stars/LuizFerK/GoRestaurant?color=FFB84C&style=flat" />
 	</a>
 	<a href="https://github.com/LuizFerK/GoRestaurant/network/members">
-		<img alt="Forks" src="https://img.shields.io/github/forks/LuizFerK/GoRestaurant?color=8E54E9&style=flat" />
+		<img alt="Forks" src="https://img.shields.io/github/forks/LuizFerK/GoRestaurant?color=FFB84C&style=flat" />
 	</a>
 	<a href="https://github.com/LuizFerK/GoRestaurant/graphs/contributors">
-		<img alt="Contributors" src="https://img.shields.io/github/contributors/LuizFerK/GoRestaurant?color=8E54E9&style=flat" />
+		<img alt="Contributors" src="https://img.shields.io/github/contributors/LuizFerK/GoRestaurant?color=FFB84C&style=flat" />
 	</a>
 </p>
 
